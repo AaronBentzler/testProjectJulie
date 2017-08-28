@@ -3,3 +3,5 @@ This is text file.
 This is the first change I'm making.  Plus removed a word above.
 
 Julie is crazy!
+
+I made a change.
